@@ -1,0 +1,58 @@
+const productsData = [
+    {
+        id:0,
+        title: 'Emerald Oasis Mension',
+        disc: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reprehenderit, debitis.',
+        price:3200,
+        img:'/images/img-0.jpg',
+        category: 'pentHouse',
+        rate:'4.3',
+    },
+    {
+        id:1,
+        title: 'Paradise Cove Mension',
+        disc: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reprehenderit, debitis.',
+        price:5200,
+        img:'/images/img-1.jpg',
+        category: 'House',
+        rate:'4.5',
+    },
+    {
+        id:2,
+        title: 'Majestic View Villa',
+        disc: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reprehenderit, debitis.',
+        price:12200,
+        img:'/images/img-2.jpg',
+        category: 'villa',
+        rate:'6.5',
+    },
+    {
+        id:3,
+        title: 'Villa del Sol Naciente',
+        disc: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reprehenderit, debitis.',
+        price:22200,
+        img:'/images/img-3.jpg',
+        category: 'villa',
+        rate:'5.5',
+    },
+    {
+        id:4,
+        title: 'Golden Sands Estate',
+        disc: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reprehenderit, debitis.',
+        price:3200,
+        img:'/images/img-4.jpg',
+        category: 'Apartment',
+        rate:'4.5',
+    },
+    {
+        id:5,
+        title: 'Sunset Cove Retreat',
+        disc: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reprehenderit, debitis.',
+        price:8200,
+        img:'/images/img-5.jpg',
+        category: 'Apartment',
+        rate:'house',
+    },
+]
+
+export default productsData;

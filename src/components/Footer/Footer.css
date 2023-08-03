@@ -1,0 +1,13 @@
+footer{
+    padding: 20px;
+    border-top: 1px solid #ddd;
+}
+.footer-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer-container p a{
+    text-decoration: none;
+    font-weight: bold;
+}
